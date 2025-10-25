@@ -1,4 +1,12 @@
 [
+   [
+    {
+       "title": "Starlike Client",
+       "version": "1.8.8-v1.5",
+       "icon": "./assets/images/icons/astra-client.png",
+       "link": "https://starlike.zumbiepig.dev/",
+       "active": true
+    }, 
     {
        "title": "Astra Client",
        "version": "1.8.8-v1.5",
