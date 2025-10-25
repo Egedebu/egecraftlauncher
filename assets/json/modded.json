@@ -1,5 +1,4 @@
 [
-   [
     {
        "title": "Astra Client",
        "version": "1.8.8-v1.5",
@@ -28,4 +27,11 @@
        "link": "./mc/shadowclient/",
        "active": true
     },
+    {
+       "title": "Starlike",
+       "version": "1.8.8-v0.4.2",
+       "icon": "./assets/images/icons/starlike.png",
+       "link": "./mc/starlikeclient/",
+       "active": true
+    }
  ]
