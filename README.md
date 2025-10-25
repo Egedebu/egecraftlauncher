@@ -1,6 +1,6 @@
-# <img src=".github/assets/logo.png" alt="Ampler Logo" align="right" width="150px"> Ampler Launcher v1.4.00
- A minecraft themed launcher for Eaglercraft!<br>
- Containing some of the best clients all in one place!
+# <img src=".github/assets/logo.png" alt="Ampler Logo" align="right" width="150px"> Egecraft Launcher v1.0
+Minecraft Temalı Türkçe Destekli Geliştirilmiş Tarayıcı Tabanlı Minecraft Launcher<br>
+ Ampler Launcher'in Geliştirilmiş Versiyonu!
 
 
 <img src=".github/assets/launcher.png" alt="Launcher Photo"><br>
