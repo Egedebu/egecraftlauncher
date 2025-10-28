@@ -33,5 +33,12 @@
        "icon": "./assets/images/icons/starlike.png",
        "link": "./mc/starlikeclient/",
        "active": true
+    },
+    {
+       "title": "Eaglercraft 1.19",
+       "version": "external",
+       "icon": "./assets/images/icons/eaglerforge.png",
+       "link": "https://egedebu.github.io/eaglercraft119/",
+       "active": true
     }
  ]
