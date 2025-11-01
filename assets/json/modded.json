@@ -4,7 +4,7 @@
         "version": "1.8.8-v1.5",
         "icon": "https://egecraft.neocities.org/png/modded.png",
         "link": "https://egecraft.neocities.org/loading/astraclent",
-        "active": true
+        "active": false
     },
     {
         "title": "Eaglerforge",
@@ -39,20 +39,20 @@
         "version": "1.8.8-v1.0",
         "icon": "https://egecraft.neocities.org/png/modded.png",
         "link": "https://egecraft.neocities.org/loading/bestclent",
-        "active": true
+        "active": false
     },
     {
         "title": "Tuff Clent",
         "version": "1.8.8-v1.0",
         "icon": "https://egecraft.neocities.org/png/modded.png",
         "link": "https://egecraft.neocities.org/loading/tuffclent",
-        "active": true
+        "active": false
     },
     {
         "title": "Prism Clent",
         "version": "1.8.8-v1.0",
         "icon": "https://egecraft.neocities.org/png/modded.png",
         "link": "https://egecraft.neocities.org/loading/prismclent",
-        "active": true
+        "active": false
     }
 ]
