@@ -133,13 +133,6 @@
         "active": true
     },
     {
-        "title": "Ravencraft 1.21",
-        "version": "1.21",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/121ravencraft",
-        "active": true
-    },
-    {
         "title": "Web İstemci",
         "version": "latest",
         "icon": "https://egecraft.neocities.org/png/normal.png",
