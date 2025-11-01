@@ -25,14 +25,14 @@
         "version": "1.8.8-u51",
         "icon": "https://egecraft.neocities.org/png/normal.png",
         "link": "./mc/1.8.8/",
-        "active": false
+        "active": true
     },
     {
         "title": "Önceki sürüm WASM",
         "version": "1.8.8-u51-wasm",
         "icon": "https://egecraft.neocities.org/png/normal.png",
         "link": "./mc/1.8.8-wasm/",
-        "active": false
+        "active": true
     },
     {
         "title": "Eaglercraft 1.6.4",
@@ -46,7 +46,7 @@
         "version": "1.5.2-sp2.01",
         "icon": "https://egecraft.neocities.org/png/normal.png",
         "link": "./mc/1.5.2/",
-        "active": false
+        "active": true
     },
     {
         "title": "Eaglercraft 1.2.5",
@@ -140,7 +140,7 @@
         "active": true
     },
     {
-        "title": "Web İstemcisi",
+        "title": "Online İstemci",
         "version": "en son",
         "icon": "https://egecraft.neocities.org/png/normal.png",
         "link": "https://egecraft.neocities.org/loading/onlinecraft",
