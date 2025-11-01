@@ -1,140 +1,147 @@
 [
     {
-        "title": "En Son Sürüm",
-        "version": "1.12.2-u2",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/1.12.2",
-        "active": true
-    },
-    {
-        "title": "En Son Sürüm WASM",
-        "version": "1.12.2-u2-wasm",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/1.12.2-wasm",
-        "active": true
-    },
-    {
-        "title": "Önceki Sürüm",
-        "version": "1.8.8-u51",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/1.8.8",
-        "active": false
-    },
-    {
-        "title": "Önceki Sürüm WASM",
-        "version": "1.8.8-u51-wasm",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/1.8.8-wasm",
-        "active": false
-    },
-    {
-        "title": "Eaglercraft 1.6.4",
-        "version": "1.6.4-25w17a",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/1.6.4",
-        "active": false
-    },
-    {
-        "title": "Eski Sürüm",
-        "version": "1.5.2-sp2.01",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/1.5.2",
-        "active": true
-    },
-    {
-        "title": "Eaglercraft 1.2.5",
-        "version": "1.2.5",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/1.2.5",
-        "active": false
-    },
-    {
-        "title": "Eaglercraft Beta 1.7.3",
-        "version": "b1.7.3",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/b1.7.3",
-        "active": false
-    },
-    {
-        "title": "Eaglercraft Beta 1.4",
-        "version": "b1.4_01-25w21b",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/b1.4",
-        "active": false
-    },
-    {
-        "title": "Eaglercraft Beta 1.3",
-        "version": "b1.3_01-23w49a",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/b1.3",
-        "active": false
-    },
-    {
-        "title": "Eaglercraft Beta 1.1",
-        "version": "b1.1_02-25w20a",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/b1.1",
-        "active": false
-    },
-    {
-        "title": "Eaglercraft Alpha 1.2.6",
-        "version": "a1.2.6",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/a1.2.6",
-        "active": false
-    },
-    {
-        "title": "Eaglercraft Alpha 1.1.2",
-        "version": "a1.1.2_01-25w20b",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/a1.1.2",
-        "active": false
-    },
-    {
-        "title": "Eaglercraft Infdev",
-        "version": "inf",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/infdev",
-        "active": false
-    },
-    {
-        "title": "Eaglercraft Infdev WASM",
-        "version": "inf-wasm",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/infdev-wasm",
-        "active": false
-    },
-    {
-        "title": "Eaglercraft Indev",
-        "version": "inv",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/indev",
-        "active": false
-    },
-    {
-        "title": "Eaglercraft Classic 0.30",
-        "version": "c0.30",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/c0.30",
-        "active": false
-    },
-    {
-        "title": "Eaglercraft Classic 0.30 WASM",
-        "version": "c0.30-wasm",
-        "icon": "https://egecraft.neocities.org/png/normal.png",
-        "link": "https://egecraft.neocities.org/loading/c0.30-wasm",
-        "active": false
-    },
-    {
-        "title": "EaglyMC 1.20",
+        "title": "En son sürüm (EaglyMC)",
         "version": "1.20",
         "icon": "https://egecraft.neocities.org/png/normal.png",
         "link": "https://egecraft.neocities.org/loading/1.20e",
         "active": true
     },
     {
-        "title": "Web İstemci",
-        "version": "latest",
+        "title": "En son resmi sürüm",
+        "version": "1.12.2-u2",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/1.12.2/",
+        "active": true
+    },
+    {
+        "title": "En son resmi sürüm WASM",
+        "version": "1.12.2-u2-wasm",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/1.12.2-wasm/",
+        "active": true
+    },
+    {
+        "title": "Önceki sürüm",
+        "version": "1.8.8-u51",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/1.8.8/",
+        "active": false
+    },
+    {
+        "title": "Önceki sürüm WASM",
+        "version": "1.8.8-u51-wasm",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/1.8.8-wasm/",
+        "active": false
+    },
+    {
+        "title": "Eaglercraft 1.6.4",
+        "version": "1.6.4-25w17a",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/1.6.4/",
+        "active": false
+    },
+    {
+        "title": "Daha eski sürüm",
+        "version": "1.5.2-sp2.01",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/1.5.2/",
+        "active": false
+    },
+    {
+        "title": "Eaglercraft 1.2.5",
+        "version": "1.2.5",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/1.2.5/",
+        "active": false
+    },
+    {
+        "title": "Eaglercraft Beta 1.7.3",
+        "version": "b1.7.3",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/b1.7.3/",
+        "active": false
+    },
+    {
+        "title": "Eaglercraft Beta 1.4",
+        "version": "b1.4_01-25w21b",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/b1.4/",
+        "active": false
+    },
+    {
+        "title": "Eaglercraft Beta 1.3",
+        "version": "b1.3_01-23w49a",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/b1.3/",
+        "active": false
+    },
+    {
+        "title": "Eaglercraft Beta 1.1",
+        "version": "b1.1_02-25w20a",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/b1.1/",
+        "active": false
+    },
+    {
+        "title": "Eaglercraft Alpha 1.2.6",
+        "version": "a1.2.6",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/a1.2.6/",
+        "active": false
+    },
+    {
+        "title": "Eaglercraft Alpha 1.1.2",
+        "version": "a1.1.2_01-25w20b",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/a1.1.2/",
+        "active": false
+    },
+    {
+        "title": "Eaglercraft Infdev",
+        "version": "inf",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/infdev/",
+        "active": false
+    },
+    {
+        "title": "Eaglercraft Infdev WASM",
+        "version": "inf-wasm",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/infdev-wasm/",
+        "active": false
+    },
+    {
+        "title": "Eaglercraft Indev",
+        "version": "inv",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/indev/",
+        "active": false
+    },
+    {
+        "title": "Eaglercraft Classic 0.30",
+        "version": "c0.30",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/c0.30/",
+        "active": false
+    },
+    {
+        "title": "Eaglercraft Classic 0.30 WASM",
+        "version": "c0.30-wasm",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "./mc/c0.30-wasm/",
+        "active": false
+    },
+    {
+        "title": "Ravencraft 1.21",
+        "version": "1.21",
+        "icon": "https://egecraft.neocities.org/png/normal.png",
+        "link": "https://egecraft.neocities.org/loading/121ravencraft",
+        "active": true
+    },
+    {
+        "title": "Web İstemcisi",
+        "version": "en son",
         "icon": "https://egecraft.neocities.org/png/normal.png",
         "link": "https://egecraft.neocities.org/loading/onlinecraft",
         "active": true
