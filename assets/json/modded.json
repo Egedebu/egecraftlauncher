@@ -1,44 +1,65 @@
 [
     {
-       "title": "Astra Client",
-       "version": "1.8.8-v1.5",
-       "icon": "./assets/images/icons/astra-client.png",
-       "link": "./mc/astraclient/",
-       "active": true
+        "title": "Astra Client",
+        "version": "1.8.8-v1.5",
+        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "link": "https://egecraft.neocities.org/loading/astraclent",
+        "active": true
     },
     {
-       "title": "Eaglerforge",
-       "version": "1.8.8-v1.3.2",
-       "icon": "./assets/images/icons/eaglerforge.png",
-       "link": "./mc/eaglerforge/",
-       "active": true
+        "title": "Eaglerforge",
+        "version": "1.8.8-v1.3.2",
+        "icon": "./assets/images/icons/eaglerforge.png",
+        "link": "./mc/eaglerforge/",
+        "active": true
     },
     {
-       "title": "Resent Client",
-       "version": "1.8.8-v4.0.p4",
-       "icon": "./assets/images/icons/resent-client.png",
-       "link": "./mc/resentclient/",
-       "active": true
+        "title": "Resent Client",
+        "version": "1.8.8-v4.0.p4",
+        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "link": "https://egecraft.neocities.org/loading/resentclent",
+        "active": true
     },
     {
-       "title": "Shadow Client",
-       "version": "1.8.8-v4.5-u34",
-       "icon": "./assets/images/mc-icons/skull.png",
-       "link": "./mc/shadowclient/",
-       "active": true
+        "title": "Shadow Client",
+        "version": "1.8.8-v4.5-u34",
+        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "link": "https://egecraft.neocities.org/loading/shadowclent",
+        "active": true
     },
     {
-       "title": "Starlike",
-       "version": "1.8.8-v0.4.2",
-       "icon": "./assets/images/icons/starlike.png",
-       "link": "./mc/starlikeclient/",
-       "active": true
+        "title": "Starlike",
+        "version": "1.8.8-v0.4.2",
+        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "link": "https://egecraft.neocities.org/loading/starlike",
+        "active": true
     },
     {
-       "title": "Eaglercraft 1.19",
-       "version": "external",
-       "icon": "./assets/images/icons/eaglerforge.png",
-       "link": "https://egedebu.github.io/eaglercraft119/",
-       "active": true
+        "title": "Eaglercraft 1.19",
+        "version": "external",
+        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "link": "https://egedebu.github.io/eaglercraft119/",
+        "active": true
+    },
+    {
+        "title": "Best Clent",
+        "version": "1.8.8-v1.0",
+        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "link": "https://egecraft.neocities.org/loading/bestclent",
+        "active": true
+    },
+    {
+        "title": "Tuff Clent",
+        "version": "1.8.8-v1.0",
+        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "link": "https://egecraft.neocities.org/loading/tuffclent",
+        "active": true
+    },
+    {
+        "title": "Prism Clent",
+        "version": "1.8.8-v1.0",
+        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "link": "https://egecraft.neocities.org/loading/prismclent",
+        "active": true
     }
- ]
+]
