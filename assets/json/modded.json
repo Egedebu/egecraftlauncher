@@ -35,13 +35,6 @@
         "active": true
     },
     {
-        "title": "Eaglercraft 1.19",
-        "version": "external",
-        "icon": "https://egecraft.neocities.org/png/modded.png",
-        "link": "https://egedebu.github.io/eaglercraft119/",
-        "active": true
-    },
-    {
         "title": "Best Clent",
         "version": "1.8.8-v1.0",
         "icon": "https://egecraft.neocities.org/png/modded.png",
