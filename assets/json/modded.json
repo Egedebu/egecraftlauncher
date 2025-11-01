@@ -54,5 +54,12 @@
         "icon": "https://egecraft.neocities.org/png/modded.png",
         "link": "https://egecraft.neocities.org/loading/prismclent",
         "active": false
+    },
+    {
+        "title": "Minekhan",
+        "version": "1.8.8-v1.0",
+        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "link": "https://egecraft.neocities.org/loading/minekhan",
+        "active": true
     }
 ]
