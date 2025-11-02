@@ -2,7 +2,7 @@
     {
         "title": "Astra Client",
         "version": "1.8.8-v1.5",
-        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "icon": "./assets/images/icons/astra-client.png",
         "link": "https://egecraft.neocities.org/loading/astraclent",
         "active": false
     },
@@ -16,21 +16,21 @@
     {
         "title": "Resent Client",
         "version": "1.8.8-v4.0.p4",
-        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "icon": "./assets/images/icons/resent-client.png",
         "link": "https://egecraft.neocities.org/loading/resentclent",
         "active": true
     },
     {
         "title": "Shadow Client",
         "version": "1.8.8-v4.5-u34",
-        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "icon": "./assets/images/mc-icons/skull.png",
         "link": "https://egecraft.neocities.org/loading/shadowclent",
         "active": true
     },
     {
         "title": "Starlike",
         "version": "1.8.8-v0.4.2",
-        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "icon": "./assets/images/icons/starlike.png",
         "link": "https://egecraft.neocities.org/loading/starlike",
         "active": true
     },
