@@ -35,31 +35,38 @@
         "active": true
     },
     {
-        "title": "Best Clent",
+        "title": "Best Eagler",
         "version": "1.8.8-v1.0",
-        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "icon": "https://egecraft.neocities.org/png/modded/BETTER%20EAGLERCRAFT.png",
         "link": "https://egecraft.neocities.org/loading/bestclent",
         "active": false
     },
     {
-        "title": "Tuff Clent",
+        "title": "Tuff Client",
         "version": "1.8.8-v1.0",
-        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "icon": "https://egecraft.neocities.org/png/modded/TUFF%20CLENT.png",
         "link": "https://egecraft.neocities.org/loading/tuffclent",
         "active": false
     },
     {
-        "title": "Prism Clent",
+        "title": "Prism Client",
         "version": "1.8.8-v1.0",
-        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "icon": "https://egecraft.neocities.org/png/modded/PR%C4%B0SM%20CLENT.png",
         "link": "https://egecraft.neocities.org/loading/prismclent",
         "active": false
     },
     {
         "title": "Minekhan",
         "version": "1.8.8-v1.0",
-        "icon": "https://egecraft.neocities.org/png/modded.png",
+        "icon": "https://egecraft.neocities.org/png/modded/M%C4%B0NE%20KHAN.png",
         "link": "https://egecraft.neocities.org/loading/minekhan",
+        "active": true
+    }
+    {
+        "title": "Precision Client",
+        "version": "1.8.8-v1.0",
+        "icon": "https://egecraft.neocities.org/png/modded/Precision%20Client.png",
+        "link": "https://egecraft.neocities.org/loading/prismclent",
         "active": true
     }
 ]
